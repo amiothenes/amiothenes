@@ -2,7 +2,7 @@
 - 👀 I’m interested in language learning
 - 🌱 I’m currently learning German
 - 💞️ I’m looking to collaborate on better tools for language learning
-- 📫 How to reach me, Amiothenes#1936
+- 📫 How to reach me, mitchell.robinson0f@gmail.com
 
 <!---
 amiothenes/amiothenes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
