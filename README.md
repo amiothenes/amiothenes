@@ -27,9 +27,9 @@ Provides bus predictions based on selected agency, route, direction, and bus sto
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/victor-stroganov/)
-- Portfolio: [Your Portfolio Website](link_to_portfolio)
-- Twitter: [Your Twitter Handle](https://twitter.com/amiothenes)
+- [Linkedin](https://www.linkedin.com/in/victor-stroganov/)
+- [Portfolio](link_to_portfolio)
+- [Twitter](https://twitter.com/amiothenes)
 
 Feel free to reach out if you have any questions or want to collaborate on exciting projects!
 
