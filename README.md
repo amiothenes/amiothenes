@@ -2,16 +2,6 @@
 
 I'm passionate about building innovative solutions and exploring new technologies, especially around my passions for **language learning, AI, and full-stack development**. I'm a **Computer Engineering student** learning through hands-on projects and always excited to dive into **new frameworks, tools, and emerging tech**.  
 
-## **🔧 Technologies & Tools**  
-
-- **Programming Languages**: JavaScript | Python | Java | C  
-- **Web Development**: React | Next.js | Node.js | Express.js | HTML | CSS | SASS  
-- **Databases**: MySQL | MongoDB | Firebase  
-- **Cloud & DevOps**: AWS | Azure | Docker | GitHub Actions  
-- **AI & Machine Learning**: TensorFlow | PyTorch | OpenAI API  
-- **Cybersecurity**: Secure Coding Practices | Encryption | OWASP  
-- **Version Control & IDEs**: Git | GitHub | VS Code | IntelliJ  
-
 ## **🚀 Projects**  
 
 ### **1T-Sentence-Miner**  
