@@ -30,7 +30,7 @@ Classifier: SVM with RBF kernel (C=10, gamma='scale') on 166 engineered features
 
 **Stack:** React Native (Expo) · FastAPI · MediaPipe · scikit-learn · Python
 
-[Repo](https://github.com/amiothenes/AI-Based_ASL_Translation_Application)
+[Repo](https://github.com/M4TT905/AI-Based_ASL_Translation_Application)
 
 ---
 
