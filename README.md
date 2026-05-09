@@ -1,32 +1,55 @@
-# **Hi there! 👋 I'm Victor**  
+# Victor Stroganov
 
-I'm passionate about building innovative solutions and exploring new technologies, especially around my passions for **language learning, AI, and full-stack development**. I'm a **Computer Engineering student** learning through hands-on projects and always excited to dive into **new frameworks, tools, and emerging tech**.  
+CompEng grad, Toronto Metropolitan University (May 2026). I build tools I actually want to use.
 
-## **🚀 Projects**  
+Five years into language learning. Shipped a sentence mining tool in 2021 (5K YouTube subs), now shipping a full NLP-powered reading app. Also: real-time ASL translation on mobile, a processor built in Verilog, ML APIs on AWS.
 
-### **1T-Sentence-Miner**  
-Script app that finds the best sentences to add to your flashcard collection in a given language learning material.  
+Open to SWE and ML engineering roles in Toronto. French bilingual.
 
-![1T Sentence Miner Screenshot](https://user-images.githubusercontent.com/60746276/117211276-ca0e5980-adc6-11eb-8063-a06dd3d2fc7e.png)  
+---
 
-[**Project Repository**](https://github.com/amiothenes/1T-Sentence-Miner)  
+## Projects
 
-### **Bus Prediction App**  
-Provides bus predictions based on selected agency, route, direction, and bus stop through NextBus.  
+### Auto-Lang
 
-![Bus Prediction App Screenshot](https://i.imgur.com/352kbmW.gif)  
+Language learning reader for people who take vocabulary acquisition seriously. Paste any text in your target language and each word gets highlighted by status across five tiers, tracked at the lemma level. Progress persists across texts and series.
 
-[**Project Repository**](https://github.com/amiothenes/NextBus-Catcher) | [**Live Demo**](https://amiothenes.github.io/NextBus-Catcher/)  
+Built because no existing tool tracked vocabulary at the lemma level. "Run", "runs", and "ran" are not three different words.
 
-## **🌱 What I'm Learning & Exploring**  
-- **Machine Learning & AI** – Building intelligent models with **TensorFlow, PyTorch, and OpenAI API**  
-- **Cloud Computing & DevOps** – Hosting and scaling apps on **AWS, Azure, and Docker**  
-- **Blockchain & Smart Contracts** – Experimenting with **Solidity and Ethereum**  
-- **Cybersecurity** – Improving secure coding practices and learning **vulnerability assessments**  
+**Stack:** Next.js 16 · TypeScript · Supabase · Drizzle ORM · Transformers.js · TanStack Query · Chart.js
 
-## **📫 Let's Connect**  
+[Live Demo](https://your-url-here.vercel.app) *(deploying May 13, 2026)* | [Repo](https://github.com/amiothenes/auto-language-learning)
 
-- [**LinkedIn**](https://www.linkedin.com/in/victor-stroganov/)  
-- [**Twitter**](https://x.com/vic_strog)  
+---
 
-**Feel free to reach out if you have any questions or want to collaborate on exciting projects! 🚀**  
+### AI-Based ASL Translation Application (Capstone)
+
+Real-time American Sign Language translation on mobile. Camera input, live classification across 37 signs (A-Z, 0-9, DEL), 98.86% accuracy.
+
+Classifier: SVM with RBF kernel (C=10, gamma='scale') on 166 engineered features per frame. MediaPipe extracts shoulder orientation, per-hand landmark coordinates, finger direction angles, and inter-fingertip distances. z-score normalization via StandardScaler.
+
+**Stack:** React Native (Expo) · FastAPI · MediaPipe · scikit-learn · Python
+
+[Repo](https://github.com/amiothenes/AI-Based_ASL_Translation_Application)
+
+---
+
+### 1T Sentence Miner
+
+Python tool that finds optimal i+1 sentences in language learning material for Anki flashcard mining. Built in 2021 while studying German. Made a YouTube channel explaining the method, got to 5K subscribers.
+
+[Repo](https://github.com/amiothenes/1T-Sentence-Miner)
+
+---
+
+## Also Built
+
+- **Semi-RISC CPU** (Verilog): custom processor with full instruction set and pipeline stages
+- **Pet Image Classifier** (Python, AWS Lambda, API Gateway): CNN deployed serverless on AWS
+- **Maze-Solving Robot** (C++, Arduino): autonomous navigation with obstacle detection
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/victor-stroganov/) · [Twitter / X](https://x.com/vic_strog)
