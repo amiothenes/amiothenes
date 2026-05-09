@@ -24,7 +24,7 @@ Built because no existing tool tracked vocabulary at the lemma level. "Run", "ru
 
 ### AI-Based ASL Translation Application (Capstone)
 
-Real-time American Sign Language translation on mobile. Camera input, live classification across 37 signs (A-Z, 0-9, DEL), 98.86% accuracy.
+Real-time American Sign Language translation on mobile. Camera input, live classification across 37 signs (A-Z, 0-9, DEL), 97.7% accuracy.
 
 Classifier: SVM with RBF kernel (C=10, gamma='scale') on 166 engineered features per frame. MediaPipe extracts shoulder orientation, per-hand landmark coordinates, finger direction angles, and inter-fingertip distances. z-score normalization via StandardScaler.
 
